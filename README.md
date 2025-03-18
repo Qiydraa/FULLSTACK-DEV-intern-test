@@ -30,13 +30,8 @@ Aplikasi ini memungkinkan **admin** dan **staff** untuk mengelola data inventory
 
 ---
 
-# **AKSES lOGIN**
--username: admin123
--password": password123
-
-## **⚡ Instalasi dan Menjalankan Proyek**
-### **1️⃣ Clone Repository**
+## **🔑 AKSES LOGIN**
+Gunakan akun ini untuk login sebagai **Admin**:  
 ```sh
-git clone https://github.com/Qiydraa/FULLSTACK-DEV-intern-test.git
-cd FULLSTACK-DEV-intern-test
-
+Username: admin123
+Password: password123
