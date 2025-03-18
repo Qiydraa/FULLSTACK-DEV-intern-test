@@ -30,9 +30,9 @@ Aplikasi ini memungkinkan **admin** dan **staff** untuk mengelola data inventory
 
 ---
 
-# AKSES lOGIN
--"username": "admin123",
--"password": "password123"
+# **AKSES lOGIN**
+-username: admin123
+-password": password123
 
 ## **⚡ Instalasi dan Menjalankan Proyek**
 ### **1️⃣ Clone Repository**
